@@ -1,15 +1,15 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: harshdoesdev.github.io/testing-stuff
+favicon: /-/harshdoesdev.github.io/testing-stuff/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: fastn-community.github.io/dark-flame-cs
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: harshdoesdev.github.io/testing-stuff/FASTN/ds
+-- fastn.auto-import: harshdoesdev.github.io/testing-stuff/assets
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
